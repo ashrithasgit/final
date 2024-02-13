@@ -2,4 +2,4 @@ Commit from branch one first commit
 Second commit on branch one
 First commit on branch two
 Second commit on branch two
-
+First commit on branch three
