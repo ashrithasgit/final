@@ -1,10 +1,8 @@
 Commit from branch one first commit
 Second commit on branch one
-<<<<<<< HEAD
 Third commit on branch one
 Commit on master
-=======
 First commit on branch two
 Second commit on branch two
 Third commit on branch two
->>>>>>> two
+First commit on branch three
