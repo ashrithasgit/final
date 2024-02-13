@@ -1,3 +1,4 @@
 Commit from branch one first commit
 Second commit on branch one
 Third commit on branch one
+Commit on master
